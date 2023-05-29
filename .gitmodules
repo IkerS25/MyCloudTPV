@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IkerS25/MyCloudTPV.git
+[submodule "frontend-app"]
+	path = frontend-app
+	url = https://github.com/IkerS25/MyCloudTPV.git
